@@ -10,7 +10,7 @@ It uses the OpenUV API to get the current UV index for the user's location and t
 - script.js — gets geolocation and calls the API
 
 ## How to run
-- Open `index.html` in a browser with geolocation support.
+- Open `index.html` in a browser with geolocation access Enabled.
 - Or serve the folder locally:
 
 ```bash
